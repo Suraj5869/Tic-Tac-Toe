@@ -1,0 +1,12 @@
+.reset{
+    background-color: blue;
+    height: 2.5rem;
+    width: 7rem;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    border: none;
+    border-radius: 50px;
+    margin: 2rem auto;
+    font-size: 1.1rem;
+    display: block;
+}
